@@ -1,0 +1,3 @@
+Roboto Slab is under the Apache License 2.0 License (for more information see here: https://github.com/googlefonts/robotoslab/blob/main/LICENSE.txt)
+
+Open Sans is under the SIL OPEN FONT LICENSE (for more information see here: https://github.com/googlefonts/opensans/blob/main/OFL.txt)
